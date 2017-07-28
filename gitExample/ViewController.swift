@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         print("1")
         print ("x")
         let x = 5
-        let y = 10
+        let z = 0
     }
 
     override func didReceiveMemoryWarning() {
